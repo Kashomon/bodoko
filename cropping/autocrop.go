@@ -1,8 +1,7 @@
 package core
 
 import (
-	"math"
-	"otre/core"
+	"github.com/Kashomon/bodoko/core"
 )
 
 func FromMovetree(mt *core.Movetree) *Cropping {

@@ -2,7 +2,7 @@ package core
 
 import (
 	"fmt"
-	"otre/point"
+	"github.com/Kashomon/bodoko/point"
 )
 
 // The SGF Properties.
